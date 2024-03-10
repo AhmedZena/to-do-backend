@@ -58,6 +58,10 @@ The application connects to a MongoDB database named 'Tasks' located at `mongodb
 
 Express's built-in middleware to parse incoming JSON payloads is used, enabling the handling of JSON data in requests.
 
+### Screenshots
+
+![image](./imgs/todo-back.png)
+
 ## Conclusion
 
 This Node.js application provides structured routes and controllers for user and todo management, with scalability and maintenance in mind. The documentation covers its setup, middleware, and main features.

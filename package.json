@@ -19,6 +19,7 @@
         "mongoose": "^8.0.4",
         "mongose": "^0.0.2-security",
         "nodemon": "^3.0.2",
+        "postman-collection": "^4.4.0",
         "pug": "^3.0.2"
     }
 }
